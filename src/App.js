@@ -19,7 +19,7 @@ function App() {
           <Route exact path='/:sportId' component={Details} />
         </Switch>
         <Footer />
-        
+        <b>Dawdiowicz</b>
       </div >
     </Router>
   );
