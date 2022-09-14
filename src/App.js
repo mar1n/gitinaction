@@ -20,6 +20,7 @@ function App() {
         </Switch>
         <Footer />
         <b>Dawdiowicz</b>
+        <b>Szymon</b>
       </div >
     </Router>
   );
