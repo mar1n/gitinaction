@@ -11,6 +11,7 @@ import NotFound from './NotFound';
 function App() {
   return (
     <Router>
+      <h1>Welcome</h1>
       <div className="App">
         <Menu />
         <Switch>
